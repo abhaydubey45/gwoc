@@ -31,6 +31,22 @@ export const NavLinks = [
     title: "Contact",
   },
 ];
+export const Experience = [
+  {
+    icon: graduation,
+    description :"Online Physics Tutor",
+    duration: "Sep'22 - Present"
+  },
+  
+  
+  {
+    icon: graduation,
+    description :"IIT Gurukul , Surat",
+    duration: "Nov'20 - May'23"
+  },
+
+  
+]  
 
 export const Achievements = [
   {
